@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @techiestrategy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript, PHP, IONIC, React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m Skilled in HTML5, CSS3, UI/UX, Wordpress, PHP, Javascript, ReactJS
+- 🌱 I keep developing more on Javascript, PHP, IONIC, ReactJS
+- 📫 I am learning more about Java, C#, and Python programming 
+- 💞️ I’m looking to collaborate on any project that would elevate the standard of living of the World
 - 📫 How to reach me 08029642596
 
 <!---
