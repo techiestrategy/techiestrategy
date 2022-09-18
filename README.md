@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @techiestrategy
-- 👀 I’m Skilled in HTML5, CSS3, UI/UX, Wordpress, PHP, Javascript, ReactJS,
+- 👋 Hi, I’m Yusuff Mustapha
+- 👀 I’m Skilled in HTML5, CSS3, UI/UX, Wordpress, PHP, Javascript, ReactJS...With up to 9years of experience.
 - 📫 Interested in learning about Java, C#, and Python programming 
 - ✨ How to reach me 08029642596
 
