@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yusuff Mustapha
-- 👀 I’m Skilled in HTML5, CSS3, UI/UX, Wordpress, PHP, Javascript, ReactJS...With up to 10+years of experience.
-- 📫 Interested in learning about Java, C#, and Python programming 
-- ✨ How to reach me 08029642596
+- 👀 I’m Skilled in HTML5, CSS3, UI/UX, Wordpress, PHP, Laravel, Javascript, ReactJS...With up to 5+years of experience.
+- ✨ How to reach me muxt_mob@yahoo.com
 
 <!---
 techiestrategy/techiestrategy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
